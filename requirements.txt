@@ -1,2 +1,4 @@
 Flask
 gunicorn
+requests==2.25.0
+streamlit==0.71.0
